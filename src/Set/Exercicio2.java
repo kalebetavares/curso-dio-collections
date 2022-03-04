@@ -66,11 +66,6 @@ public class Exercicio2 {
 		for (LinguagemFavorita linguagemFavorita : minhasLinguagens5) {
 			System.out.println(linguagemFavorita.getNome() + " - " + linguagemFavorita.getAnoDeCriacao() + " - " + linguagemFavorita.getIde());
 		}
-		
-		System.out.println("--\tExiba uma abaixo da outra\t--");
-		for (LinguagemFavorita linguagemFavorita : minhasLinguagens2) {
-			System.out.println(linguagemFavorita);
-		}
  	}
 
 }
