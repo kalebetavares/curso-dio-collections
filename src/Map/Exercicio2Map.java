@@ -21,7 +21,6 @@ public class Exercicio2Map {
 		
 		Map<Integer, Integer> numDados = new LinkedHashMap<>() {
 			private static final long serialVersionUID = 1L;
-
 		{
 		
 		for(int i = 0; i < dado; i++) {
